@@ -50,9 +50,9 @@ Now that everything is set up, run the application using the following command:
 ```bash
 flask run
 ```
-This will start the Flask development server, and you can access the application at http://localhost:5000
+This will start the Flask development server, and you can access the application at http://localhost:5000 then from there you can go to http://localhost:5000/apidocs/ for swagger UI.
 
-##API Documentation
+## API Documentation
 The 5F Project provides a RESTful API for interacting with its resources. Below is an overview of the main API endpoints:
 
 ### 1. Authentication Endpoints

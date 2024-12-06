@@ -30,7 +30,7 @@ pip install virtualenv
 ```
 or
 ```bash
-python3 -m venv .venv
+python3 -m venv venv
 ```
 Now, create and activate the virtual environment:
 ```bash
